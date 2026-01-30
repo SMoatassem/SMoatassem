@@ -1,16 +1,23 @@
-## Hi there 👋
+# Moatassem Seghyar
 
-<!--
-**SMoatassem/SMoatassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant ingénieur à l’ENSIMAG — ISI (Ingénierie des Systèmes d’Information)  
+Intérêts : développement logiciel, systèmes, bas niveau, performance.
 
-Here are some ideas to get you started:
+## Compétences clés
+- **Programmation** : C, Python, Java, C++  
+- **Systèmes** : Linux, Bash, GDB, Make, Maven
+- **Dev & qualité** : Git (workflow, MR/PR, review), Docker, tests, debug
+- **Web** : Flask, HTML/CSS, JavaScript
+- **Data/DB** : SQL, Oracle, JDBC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce que je recherche
+🎯 Stage **2–3 mois** à partir de **juin 2026** (logiciel / systèmes / Python / C)
+
+## Contact
+- GitHub : https://github.com/SMoatassem
+- LinkedIn : https://linkedin.com/in/moatassem-seghyar
+- Email : moatassem.seghyar@grenoble-inp.org
+- Localisation : Grenoble, France
+
+## Langues
+Français (courant) · Anglais (C1) · Arabe (natif) · Allemand (A1.2)
