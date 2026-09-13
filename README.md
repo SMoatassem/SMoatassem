@@ -12,13 +12,14 @@ Pinned repositories below are the short version of what I build.
 
 ## Stack
 
-**Languages** — Go, C, OCaml, Python, Java, Bash, x86 assembly
-**Systems & infra** — Linux, eBPF, Docker, Kubernetes
-**Observability & tooling** — Prometheus, Grafana, GitLab CI, GitHub Actions, GDB, Make
-**Data & storage** — SQL, Oracle, JDBC, relational schema design
-**Web** — Node.js, Express, Flask, REST APIs
+- **Languages** — Go, C, OCaml, Python, Java, Bash, x86 assembly
+- **Systems & infra** — Linux, eBPF, Docker, Kubernetes
+- **Observability & tooling** — Prometheus, Grafana, GitLab CI, GitHub Actions, GDB, Make
+- **Data & storage** — SQL, Oracle, JDBC, relational schema design
+- **Web** — Node.js, Express, Flask, REST APIs
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/moatassem-seghyar) · moatassem.seghyar@grenoble-inp.org
-Grenoble, France
+- [LinkedIn](https://linkedin.com/in/moatassem-seghyar)
+- moatassem.seghyar@grenoble-inp.org
+- Grenoble, France
