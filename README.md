@@ -1,23 +1,24 @@
 # Moatassem Seghyar
 
-Étudiant ingénieur à l’ENSIMAG — ISI (Ingénierie des Systèmes d’Information)  
-Intérêts : développement logiciel, systèmes, bas niveau, performance.
+Third-year engineering student at ENSIMAG (Grenoble INP), Information Systems track.
 
-## Compétences clés
-- **Programmation** : C, Python, Java, C++  
-- **Systèmes** : Linux, Bash, GDB, Make, Maven
-- **Dev & qualité** : Git (workflow, MR/PR, review), Docker, tests, debug
-- **Web** : Flask, HTML/CSS, JavaScript
-- **Data/DB** : SQL, Oracle, JDBC
+I work on Linux systems, cloud infrastructure and performance — containers,
+orchestration, observability, and low-level code when it earns its place.
 
-## Ce que je recherche
-🎯 Stage **2–3 mois** à partir de **juin 2026** (logiciel / systèmes / Python / C)
+**Looking for a 5–6 month final-year internship starting February 2027.**
+Backend, distributed systems, cloud and platform / DevOps engineering.
+
+Pinned repositories below are the short version of what I build.
+
+## Stack
+
+**Languages** — Go, C, OCaml, Python, Java, Bash, x86 assembly
+**Systems & infra** — Linux, eBPF, Docker, Kubernetes
+**Observability & tooling** — Prometheus, Grafana, GitLab CI, GitHub Actions, GDB, Make
+**Data & storage** — SQL, Oracle, JDBC, relational schema design
+**Web** — Node.js, Express, Flask, REST APIs
 
 ## Contact
-- GitHub : https://github.com/SMoatassem
-- LinkedIn : https://linkedin.com/in/moatassem-seghyar
-- Email : moatassem.seghyar@grenoble-inp.org
-- Localisation : Grenoble, France
 
-## Langues
-Français (courant) · Anglais (C1) · Arabe (natif) · Allemand (A1.2)
+[LinkedIn](https://linkedin.com/in/moatassem-seghyar) · moatassem.seghyar@grenoble-inp.org
+Grenoble, France
